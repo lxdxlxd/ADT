@@ -11,15 +11,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
- INTEGRITY STATEMENT (modify if neccessary)
- I received help from the following sources: None.
- I am the sole author of this work .
- Sign this statement by removing the line below and entering your name
- Name: Xinda Li
- login ID: x556li
- */
-
 struct Node{
     int item;
     int pri;
