@@ -7,7 +7,6 @@
 //
 
 #include "pq.h"
-#include "pq.h"
 #include <stdlib.h>
 #include <stdio.h>
 
